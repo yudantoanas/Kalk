@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kalk</string>
+    <string name="help_text">Enter two numbers</string>
+    <string name="input_error">Please input number here</string>
+</resources>
